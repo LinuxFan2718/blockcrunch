@@ -11,6 +11,10 @@ memo on a crypto project with a live token in the top 100 market cap rank
 
 [substack](https://blockcrunch.substack.com/)
 
+[reddit thread on polygon](https://www.reddit.com/r/maticnetwork/comments/mps974/is_polygon_an_l2_or_sidechain/)
+
+[polygon official youtube](https://www.youtube.com/@0xPolygonTV/videos)
+
 # change author on commits
 
 git rebase -i HEAD~4 -x "git commit --amend --author 'Dennis Cahillane <dennis@denniscahillane.info>' --no-edit"
